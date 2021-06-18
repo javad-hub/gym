@@ -1,3 +1,2 @@
 # Gym website
-
-a gym website built bt free online template
+ built by free online template
